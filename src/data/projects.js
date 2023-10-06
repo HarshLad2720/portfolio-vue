@@ -23,7 +23,7 @@ const projects = [
     id: 3,
     title: "CABINET MEDICAL AWA",
     image: "cma.png",
-    url: "#",
+    url: "https://gdigadiga.com/health/site/login",
     category: "Codeigniter",
     tags: ["Codeigniter", "PHP", "MySQL"],
     description:
